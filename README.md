@@ -17,7 +17,8 @@
 
 ---
 ### 📚 Projects 📚
-- [8 week SQL challenge]
+- [8 week SQL challenge](https://github.com/Chicong00/8weekchallenge/blob/main/README.md)
+
 <i> [Updating...]
 
 ---
