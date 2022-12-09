@@ -17,6 +17,7 @@
 
 ---
 ### 📚 Projects 📚
+- [8 week SQL challenge]
 <i> [Updating...]
 
 ---
