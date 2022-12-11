@@ -8,7 +8,7 @@
 ---
 ### ✍ Experiences ✍
 #### Solar Engineer 
-- ☀ Project Engineering Intern at Genergy 
+- ☀ Project Engineering Intern at Genergy (**03/2022** - **04/2022**)
    - Project manager Hoa Mat Troi project: plan, design, and rearrange DC cables and DC cable trays.
   -  O&M Engineer Xuan Phu 2Mwp technical project: relocate, rearrange inverter and connect DC, AC.
   
