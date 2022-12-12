@@ -24,7 +24,7 @@
 
 ---
 ### 💡 Core Competencies 💡
-- Tools: SQL, Python, Tableau
+- Tools: SQL, Python, Power BI
 - Skills: Data Cleaning and Transformation, Data Visualisation, Data Analysis
 
 ---
