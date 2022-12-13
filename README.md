@@ -20,7 +20,7 @@
 #### [SQL](https://github.com/Chicong00/SQL-Project/blob/main/README.md)
 - [8 week SQL challenge](https://github.com/Chicong00/8weekchallenge/blob/main/README.md)
 
-<i> [Updating...]
+[*Updating...*]
 
 ---
 ### 💡 Core Competencies 💡
@@ -30,8 +30,8 @@
 ---
 ### 🎖 Certifications 🎖
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/FR7LDRQ46ZPK)
-  
-<i>[Updating...]
+
+[*Updating...*]
   
 ---
 ### 🤝 Connect with Me
