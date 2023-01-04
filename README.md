@@ -34,6 +34,8 @@
 ---
 ### 🎖 Certifications 🎖
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/FR7LDRQ46ZPK)
+- [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/G79A5PPGGRRM)
+- [EFSET English Certificate 73/100 (C2 Proficient)](https://www.efset.org/cert/sER3Wy)
 
 [*Updating...*]
   
@@ -43,3 +45,4 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/chi-cong-vo-083023221
+
