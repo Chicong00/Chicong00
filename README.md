@@ -21,6 +21,8 @@
 - [8 week SQL challenge](https://github.com/Chicong00/8weekchallenge/blob/main/README.md)
 - [American Energy Market Regulator](https://github.com/Chicong00/American-Energy-Market-Regulator)
 #### [Power BI](https://github.com/Chicong00/Power-BI---Project)
+- [American Energy Market Regulator](https://congvocom.wordpress.com/project/project-1/aemr-power-bi/)
+- [ChemCorp Inc.](https://congvocom.wordpress.com/project/chemcorp-inc/)
 
 [*Updating...*]
 
