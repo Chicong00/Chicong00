@@ -33,7 +33,7 @@
 
 ---
 ### 🎖 Certifications 🎖
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/FR7LDRQ46ZPK)
+- [Google Data Analytics Certificate](https://www.credly.com/badges/0def9376-d2c0-4302-bd46-d07dd7c8661a/linked_in_profile)
 - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/G79A5PPGGRRM)
 - [EFSET English Certificate 73/100 (C2 Proficient)](https://www.efset.org/cert/sER3Wy)
 
