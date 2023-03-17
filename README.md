@@ -13,7 +13,7 @@
   -  O&M Engineer Xuan Phu 2Mwp technical project: relocate, rearrange inverter and connect DC, AC.
   
 #### Data Analyst 
-- 🔍 Looking forrward to finding a job open for intern/fresher data analyst
+- 🔍 Looking forrward to finding a job
 
 ---
 ### 📚 Projects 📚
@@ -44,5 +44,5 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/chi-cong-vo-083023221
+[linkedin]: https://www.linkedin.com/in/chi-cong-vo-311772159/
 
