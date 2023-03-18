@@ -17,7 +17,7 @@
 
 ---
 ### 📚 Projects 📚
-#### [SQL](https://github.com/Chicong00/SQL-Project/blob/main/README.md)
+#### [SQL](https://github.com/Chicong00/8-week-SQL-challenge)
 - [8 week SQL challenge](https://github.com/Chicong00/8weekchallenge/blob/main/README.md)
 - [American Energy Market Regulator](https://github.com/Chicong00/American-Energy-Market-Regulator)
 #### [Power BI](https://github.com/Chicong00/Power-BI---Project)
