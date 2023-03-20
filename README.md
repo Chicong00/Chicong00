@@ -7,14 +7,21 @@
 - ⚽ Passion for sports and love to read. 
 ---
 ### ✍ Experiences ✍
-#### Solar Engineer 
-- ☀ Project Engineering Intern at Genergy (**03/2022** - **04/2022**)
-   - Project manager Hoa Mat Troi project: plan, design, and rearrange DC cables and DC cable trays.
-  -  O&M Engineer Xuan Phu 2Mwp technical project: relocate, rearrange inverter and connect DC, AC.
-  
-#### Data Analyst 
-- 🔍 Looking forrward to finding a job
 
+**☀ Project Engineering Intern at Genergy (**03/2022** - **04/2022**)**
+   - Project manager Hoa Mat Troi project: 
+      - Double-checked documentation and work orders.
+      - Assisted in planning site layouts and blueprints.
+      - Acquired knowledge of industry trends and developed
+      - solutions and strategy through effective research.
+      - Supported project engineer on various tasks.
+
+  -  O&M Engineer Xuan Phu 2Mwp technical project: relocate, rearrange inverter and connect DC, AC.
+      - Enhanced project efficiency by completing computer simulations of solar photovoltaic generation system performance and energy productions.
+      - Worked directly with project construction leads to execute plans according to     prescribed budgets and time commitments.
+      - Secured sufficient permits for proposed project prior to construction.
+      - Reviewed design layouts to verify viability and resolve compatibility conflicts with existing energy infrastructure.
+  
 ---
 ### 📚 Projects 📚
 #### [SQL](https://github.com/Chicong00/SQL-Project)
