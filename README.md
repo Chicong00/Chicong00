@@ -1,9 +1,8 @@
 ## Hi there, I'm Cong! 🙋‍♂️
 
 ### 👀 About Me 👀
-- 👨‍💻 A two-year business intelligence developer with the ambition to always innovate and work smart in the data field..
-- 📖 Always willing to learn new and interesting things.
-- ⚽ Passion for sports and love to read. 
+   Results-driven Business Intelligence Developer with 1.5 years of experience, specializing in transforming raw data into actionable insights through dashboards, reports, and data models. Proficient in SQL, Looker (LookML), and Google Sheets, with a focus on driving business decisions and optimizing analytics workflows.
+
 ---
 ### ✍ Experiences ✍
 
