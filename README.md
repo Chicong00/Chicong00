@@ -21,7 +21,7 @@
       - Secured sufficient permits for the proposed project before construction.
       - Reviewed design layouts to verify viability and resolve compatibility conflicts with existing energy infrastructure.
       - 
-**💻 Project Engineering Intern at Genergy (**04/2023** - **Now**)**
+**💻 Business Intelligence Developer at CyberLogitec (**04/2023** - **Now**)**
    - Develop, deploy, and enhance Looker dashboards
    - Improve performance dashboards
    - Optimize SQL queries for performance and scalability
