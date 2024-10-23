@@ -20,7 +20,8 @@
       - Worked directly with project construction leads to execute plans according to     prescribed budgets and time commitments.
       - Secured sufficient permits for the proposed project before construction.
       - Reviewed design layouts to verify viability and resolve compatibility conflicts with existing energy infrastructure.
-**☀ Project Engineering Intern at Genergy (**04/2023** - **Now**)**
+      - 
+**💻 Project Engineering Intern at Genergy (**04/2023** - **Now**)**
    - Develop, deploy, and enhance Looker dashboards
    - Improve performance dashboards
    - Optimize SQL queries for performance and scalability
