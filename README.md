@@ -1,33 +1,35 @@
-## Hi there, I'm Cong! 🙋‍♂️
+# Hi there, I'm Cong! 🙋‍♂️
 
-### 👀 About Me 👀
-   Results-driven Business Intelligence Developer with 1.5 years of experience, specializing in transforming raw data into actionable insights through dashboards, reports, and data models. Proficient in SQL, Looker (LookML), and Google Sheets, with a focus on driving business decisions and optimizing analytics workflows.
+## 👀 About Me 👀
+With a foundation in data analysis and two years of BI development, I'm a proactive problem-solver, continuously expanding my skillset, particularly in AI and advanced data techniques.
 
 ---
-### ✍ Experiences ✍
+## ✍ Experiences ✍
+#### 💻 Business Intelligence Developer | Data Analyst at CLT (04/2023 – Now) 💻
+**Business Intelligence Developer (60%)**
 
-**☀ Project Engineering Intern at Genergy (**03/2022** - **04/2022**)**
-   - Project manager Hoa Mat Troi project: 
-      - Double-checked documentation and work orders.
-      - Assisted in planning site layouts and blueprints.
-      - Acquired knowledge of industry trends and developed
-      - solutions and strategy through effective research.
-      - Supported project engineer on various tasks.
+– Expertise in Looker & LookML: Mastered Looker Explore, leveraging measures, dimensions, pivots, table calculations, and advanced filters to create insightful visualizations and dynamic dashboards. Developed scalable LookML models, optimizing data relationships, dimensions, and measures for robust analytics solutions.
 
-  -  O&M Engineer Xuan Phu 2Mwp technical project: relocate, rearrange inverter, and connect DC, and AC.
-      - Enhanced project efficiency by completing computer simulations of solar photovoltaic generation system performance and energy production.
-      - Worked directly with project construction leads to execute plans according to     prescribed budgets and time commitments.
-      - Secured sufficient permits for the proposed project before construction.
-      - Reviewed design layouts to verify viability and resolve compatibility conflicts with existing energy infrastructure.
-      - 
-**💻 Business Intelligence Developer at CyberLogitec (**04/2023** - **Now**)**
-   - Develop, deploy, and enhance Looker dashboards
-   - Improve performance dashboards
-   - Optimize SQL queries for performance and scalability
-   - Create and maintain documentation of BI solutions and processes
+– Performance Optimization: Proactively improved LookML code, SQL, and dashboard performance, reducing load times and enhancing user experience through query optimization and best practices.
+
+– Business-Centric Analytics Solutions: Partnered with cross-functional stakeholders to translate complex business needs into actionable insights, designing data solutions that align with strategic goals and drive decision-making.
+
+– Impactful Data Storytelling: Built comprehensive, interactive dashboards that accurately reflect business logic, enabling executives and teams to track key metrics, identify trends, and make informed decisions.
+– Collaborative & Agile Development: Worked in an Agile environment, iterating on data models, reports, and dashboards to meet evolving business requirements efficiently.
+
+**Data Analyst (40%)**
+
+– Ad-hoc Reporting and Analysis: Provided on-demand analysis and reporting for stakeholders, addressing critical business questions and enabling rapid decision-making during high-stakes projects.
+
+– Data Quality and Validation: Validated data sources and optimized data transformation processes to maintain data accuracy and reliability across multiple reporting projects.
+
+– ETL Process Improvement: Collaborated with the data engineering team to refine ETL processes, which streamlined data flows and reduced data lag, ensuring up-to-date information was available for business analysis.
+
+– Documentation and Knowledge Sharing: Created detailed documentation of solutions and processes, ensuring clarity and accessibility, which enabled rapid onboarding and facilitated cross-functional team alignment.
+
 ---
-### 📚 Projects 📚
-#### [SQL](https://github.com/Chicong00/SQL-Project)
+## 📚 Projects 📚
+### [SQL](https://github.com/Chicong00/SQL-Project)
 - [8-week SQL challenge](https://github.com/Chicong00/8-week-SQL-challenge)
 - [American Energy Market Regulator](https://github.com/Chicong00/American-Energy-Market-Regulator)
 #### [Power BI](https://github.com/Chicong00/Power-BI---Project)
@@ -37,22 +39,22 @@
 [*Updating...*]
 
 ---
-### 💡 Core Competencies 💡
-- Tools: SQL, Python, Power BI
-- Skills: Data Cleaning and Transformation, Data Visualisation, Data Analysis
+## 💡 Core Competencies 💡
+- Tools: SQL, Python, Power BI, Looker
+- Skills: Data Modeling, Data Visualisation, Data Analysis, ELT/ETL
 
 ---
-### 🎖 Certifications 🎖
+## 🎖 Certifications 🎖
+- [Google Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/4MBLOI4KJH0B)
 - [Google Data Analytics Certificate](https://www.credly.com/badges/0def9376-d2c0-4302-bd46-d07dd7c8661a/linked_in_profile)
-- [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/G79A5PPGGRRM)
-- [EFSET English Certificate 73/100 (C2 Proficient)](https://www.efset.org/cert/sER3Wy)
+- [Data Analysis with Python](https://freecodecamp.org/certification/Cong_Vo/data-analysis-with-python-v7) @freeCodeCamp 
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/667b0fc62277) @HackerRank
 
 [*Updating...*]
   
 ---
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/chi-cong-vo-311772159/
-
