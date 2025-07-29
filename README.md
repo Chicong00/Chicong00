@@ -2,7 +2,19 @@
 
 ###
 
-<h5 align="left">🧑‍💼 BI Analyst with 2+ YOE | Building toward Analytics Engineering  <br>🤝 Open to data collaborations, AI use cases & learning together  <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs</h5>
+<p align="left">Taking on the 🎮 of life with a dreamy mind that loves 📚 and🎧 , calloused hands from 👨‍💻 and 🏋️‍♂️ , and blistered feet from dribbling ⚽ on the pitch.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🧑‍💼 BI Analyst with 2+ YOE | Building toward Analytics Engineering  <br>🤝 Open to data collaborations, AI use cases & learning together  <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -24,6 +36,10 @@
 
 ###
 
+<h2 align="left">Contact me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/cong-vo-311772159/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -31,13 +47,6 @@
   <a href="mailto:vochicong0402@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/vochicong0402" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Chicong00/Chicong00/output/snake.svg" alt="Snake animation" />
 
 ###
