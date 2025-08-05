@@ -4,6 +4,12 @@
 
 <p align="left">Taking on the 🎮 of life with a dreamy mind that loves 📚 and🎧 , calloused hands from 👨‍💻 and 🏋️‍♂️ , and blistered feet from dribbling ⚽ on the pitch.</p>
 
+### 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/db4a2fc3-1b15-4a7f-baee-65ae038db008" alt="Coding GIF"/>
+</div>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -14,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
@@ -22,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="35" alt="looker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="10" />
@@ -31,7 +39,17 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
   <img width="10" />
+  <img src="https://www.svgrepo.com/show/354040/markdown.svg" height="35" alt="markdown logo"  />
+  <img width="10" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="35" alt="tableau logo"  />
+  <img width="10" />
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="35" alt="looker logo"  />
+  <img width="10" />
+  <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="35" alt="google cloud logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
+  <img width="10" />
+  <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" height="35" alt="vscode logo"  />
 </div>
 
 ###
