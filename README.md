@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Taking on the 🎮 of life with a dreamy mind that loves 📚 and🎧 , calloused hands from 👨‍💻 and 🏋️‍♂️ , and blistered feet from dribbling ⚽ on the pitch.</p>
+<p align="left">I’m conquering the 🎮 of life with a dreamy 🧠 that loves 📚 and🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
 
 ### 
 
@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">🧑‍💼 BI Analyst with 2+ YOE | Building toward Analytics Engineering  <br>🤝 Open to data collaborations, AI use cases & learning together  <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs</p>
+<p align="left">🧑‍💼 BI Analyst with 2+ YOE | Building toward Analytics Engineering  
+  <br>🤝 Open to data collaborations, AI use cases & learning together  
+  <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs
+  <br>🎈 Fun fact: Every photo is a potential meme in my eyes. 
+</p>
 
 ###
 
