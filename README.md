@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m conquering the 🎮 of life with a dreamy 🧠 that loves 📚 and🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
+<p align="left">I’m takin on the 🎮 of life with a dreamy 🧠 that loves 📚 and🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
 
 ### 
 
