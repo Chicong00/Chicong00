@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m takin on the 🎮 of life with a dreamy 🧠 that loves 📚 and🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
+<p align="left">I’m taking on the 🎮 of life with a dreamy 🧠 that loves 📚 and 🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
 
 ### 
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🧑‍💼 BI Analyst with 2+ YOE | Building toward Analytics Engineering  
+<p align="left">🧑‍💼 BI Analyst with 3+ YOE | Building toward Data Analytics Engineering  
   <br>🤝 Open to data collaborations, AI use cases & learning together  
   <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs
   <br>🎈 Fun fact: Every photo is a potential meme in my eyes. 
@@ -46,8 +46,6 @@
   <img src="https://www.svgrepo.com/show/354040/markdown.svg" height="35" alt="markdown logo"  />
   <img width="10" />
   <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="35" alt="tableau logo"  />
-  <img width="10" />
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="35" alt="looker logo"  />
   <img width="10" />
   <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="35" alt="google cloud logo"  />
   <img width="10" />
