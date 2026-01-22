@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m taking on the 🎮 of life with a dreamy 🧠 that loves 📚 and 🎧 , calloused 🖐️ from 👨‍💻 and 🏋️‍♂️ , and blistered 🐾 from dribbling ⚽ on the pitch.</p>
+<p align="left">I’m taking on the game of life with a dreamy soul, a love of reading and listening to music, calloused hands from coding and calisthenics, and blistered feet from dribbling on the pitch.</p>
 
 ### 
 
