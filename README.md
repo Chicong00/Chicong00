@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m taking on the game of life with a dreamy soul, a love of reading and listening to music, calloused hands from coding and calisthenics, and blistered feet from dribbling on the pitch.</p>
+<p align="left">I work in data. I prepare, cook, and serve trustworthy data to everyone who needs it.</p>
 
 ### 
 
@@ -16,10 +16,10 @@
 
 ###
 
-<p align="left">🧑‍💼 BI Analyst with 3+ YOE | Building toward Data Analytics Engineering  
-  <br>🤝 Open to data collaborations, AI use cases & learning together  
-  <br>🌱 Exploring AI agents & journaling workflow with Obsidian + LLMs
-  <br>🎈 Fun fact: Every photo is a potential meme in my eyes. 
+<p align="left">🧑‍💼 Analytics & Business Intelligence Engineer with 3.5+ years of experience.
+  <br>🤝 Open to collaboration in data, BI, and AI.
+  <br>🔬 Exploring agentic analytics and the future of AI-powered decision-making.
+  <br>✍️ Writing at https://substack.com/@cicology.
 </p>
 
 ###
